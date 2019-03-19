@@ -2,4 +2,4 @@
 built @ Facebook Argentina Regional Hackathon 2019
 
 # preview
-[preview](https://raw.githubusercontent.com/prete/aplausometro/master/aplausometro.gif)
+![preview](https://raw.githubusercontent.com/prete/aplausometro/master/aplausometro.gif)
